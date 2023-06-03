@@ -1,0 +1,59 @@
+.contenedor-principal-testimonio {
+    display: flex;
+    align-items: column;
+    text-align: center;
+    width: 600px;
+    height: 380px;
+    flex-direction: column;
+  }
+
+  .estilos-imagen {
+    border-radius: 50%;
+    border: solid 2px grey;
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+
+  p {
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 5px !important;
+    margin-left: 35px !important;
+    margin-right: 35px !important;
+  }
+
+  .style-icon {
+    height: 35px;
+    font-size: 30px;
+    padding: 10px 0px;
+    color: #94c523;
+  }
+
+  .style-titulo {
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-size: 17px;
+  }
+
+  em {
+    font-style: italic;
+  }
+
+  h4 {
+    font-family: "Playfair Display";
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  .nombre-clienta {
+    font-weight: bold;
+  }
+
+  .fecha-comentario {
+    font-size: 14px;
+  }
